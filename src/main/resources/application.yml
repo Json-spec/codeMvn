@@ -9,3 +9,14 @@ spring:
     username: root
     password: forever
 
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+
+logging:
+  level:
+    com: debug
+  config: classpath:log4j2.xml
+
+
+
+
