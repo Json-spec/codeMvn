@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
-	<meta charset="utf-8">
-	<meta name="author" content="Kodinger">
-	<title>My Login Page &mdash; Bootstrap 4 Login Page Snippet</title>
-	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/my-login.css">
+	<title>登录</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+	<link rel="stylesheet"  href="/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/my-login.css">
+
 </head>
 <body class="my-login-page">
 	<section class="h-100">
@@ -13,7 +14,7 @@
 			<div class="row justify-content-md-center h-100">
 				<div class="card-wrapper">
 					<div class="brand">
-						<img src="img/logo.jpg">
+						<img src="/img/logo.jpg">
 					</div>
 					<div class="card fat">
 						<div class="card-body">
@@ -28,7 +29,7 @@
 
 								<div class="form-group">
 									<label for="password">密码
-										<a href="forgot.html" class="float-right">
+										<a href="/templates/forgot.html" class="float-right">
 											忘记密码?
 										</a>
 									</label>
@@ -47,7 +48,8 @@
 									</button>
 								</div>
 								<div class="margin-top20 text-center">
-									还没有账号? <a href="register.html">创建一个</a>
+									还没有账号? <a href="javaScript:void(0)" onclick="registerEvnt()">创建一个</a>
+
 								</div>
 							</form>
 						</div>
@@ -58,9 +60,11 @@
 			</div>
 		</div>
 	</section>
+	<script src="/js/jquery.min.js"></script>
+	<script src="/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/js/my-login.js"></script>
+<script type="text/javascript">
 
-	<script src="js/jquery.min.js"></script>
-	<script src="bootstrap/js/bootstrap.min.js"></script>
-	<script src="js/my-login.js"></script>
+</script>
 </body>
 </html>
