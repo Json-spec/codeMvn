@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41c1094-d25b-46ac-96fe-5c9eba0bc94e" name="Default" comment="新项目的提交">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_4_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webServerProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webServerProject.iml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +36,6 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="cacd794b-4b42-4e28-ab32-06117289a3c8" />
-  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/webServer/project/WebServerApplication.java" root0="SKIP_INSPECTION" />
   </component>
@@ -37,7 +49,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/maven/apache-maven-3.5.0-bin/apache-maven-3.5.0" />
+        <option name="mavenHome" value="E:/Maven1/apache-maven-3.5.4" />
         <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -62,6 +74,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -75,7 +88,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,13 +96,24 @@
       <recent name="I:\idea_workspace\webServerProject\src\main\resources" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -135,23 +159,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.WebServerApplication" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Jack\AppData\Roaming\Subversion</configuration>
@@ -166,6 +173,8 @@
       <workItem from="1588606214107" duration="2200000" />
       <workItem from="1588613987666" duration="1846000" />
       <workItem from="1588615932697" duration="288000" />
+      <workItem from="1588821988024" duration="55000" />
+      <workItem from="1588822055750" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="新项目的提交">
       <created>1588616216287</created>
@@ -180,95 +189,47 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新项目的提交" />
     <option name="LAST_COMMIT_MESSAGE" value="新项目的提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="182" y="0" key="CommitChangelistDialog2" timestamp="1588616211724">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="182" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588616211724" />
-    <state x="462" y="107" key="FileChooserDialogImpl" timestamp="1588615614134">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588615614134" />
-    <state x="377" y="321" key="Github.CreateGistDialog" timestamp="1588615840526">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="377" y="321" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1588615840526" />
-    <state x="532" y="258" width="302" height="284" key="Github.ShareDialog" timestamp="1588615492335">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="532" y="258" width="302" height="284" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1588615492335" />
-    <state x="323" y="66" key="NewModule_or_Project.wizard" timestamp="1588614925264">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="323" y="66" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1588614925264" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1588615978537">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588615978537" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1588616392455">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588616392455" />
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588615509962">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1588615509962" />
-    <state x="375" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1588615933577">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="375" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588615933577" />
-    <state x="473" y="272" key="svn.passwordDialog" timestamp="1588614600013">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="473" y="272" key="svn.passwordDialog/0.0.1366.728@0.0.1366.728" timestamp="1588614600013" />
-    <state x="513" y="157" key="svn.repositoryBrowser" timestamp="1588614703867">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="513" y="157" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1588614703867" />
-    <state x="484" y="138" key="svn4idea.import.options" timestamp="1588614543580">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="484" y="138" key="svn4idea.import.options/0.0.1366.728@0.0.1366.728" timestamp="1588614543580" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="182" y="0" key="CommitChangelistDialog2" />
+    <state x="182" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" />
+    <state x="462" y="107" key="FileChooserDialogImpl" />
+    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" />
+    <state x="377" y="321" key="Github.CreateGistDialog" />
+    <state x="377" y="321" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" />
+    <state x="532" y="258" width="302" height="284" key="Github.ShareDialog" />
+    <state x="532" y="258" width="302" height="284" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" />
+    <state x="323" y="66" key="NewModule_or_Project.wizard" />
+    <state x="323" y="66" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" />
+    <state x="186" y="0" key="SettingsEditor" />
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" />
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog" />
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" />
+    <state x="473" y="272" key="svn.passwordDialog" />
+    <state x="473" y="272" key="svn.passwordDialog/0.0.1366.728@0.0.1366.728" />
+    <state x="513" y="157" key="svn.repositoryBrowser" />
+    <state x="513" y="157" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" />
+    <state x="484" y="138" key="svn4idea.import.options" />
+    <state x="484" y="138" key="svn4idea.import.options/0.0.1366.728@0.0.1366.728" />
   </component>
 </project>
