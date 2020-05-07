@@ -8,4 +8,21 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: forever
+  thymeleaf:
+    prefix:
+      classpath: /templates/   # 访问template下的html文件需要配置模板，映射
+    cache: false # 开发时关闭缓存,不然没法看到实时页面
+
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+
+logging:
+  level:
+    com: debug
+  config: classpath:log4j2.xml
+
+
+
+
+
 
